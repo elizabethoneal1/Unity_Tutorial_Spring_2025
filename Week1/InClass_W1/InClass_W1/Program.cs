@@ -3,6 +3,11 @@
   * Write a program to declare variables for your name, age, and a decimal value for your height in meters or inches.
   * Print them out in a single sentence.
 */
+string name = "Elizabeth"
+int age = 43;
+float height = 5.5f; //meters
+
+Console.WriteLine($" My name is {name}. I am {age} years old. I am {height} tall")
 
 
 
